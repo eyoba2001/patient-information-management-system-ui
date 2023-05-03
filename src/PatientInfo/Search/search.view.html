@@ -1,0 +1,8 @@
+<br/>
+<patient-info-heading></patient-info-heading>
+<div id ="search"> 
+ <label for ="lastName" >Patient Last Name :</label><input type ="text" [(ngModel)]="last_name" />
+ <label for="patientId">Patient Id:</label> <input type="text" [(ngModel)]="patient_id"/> 
+ <button (click)="patientInfoDisplay()">Display</button>
+</div>
+<router-outlet></router-outlet>

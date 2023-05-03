@@ -1,0 +1,67 @@
+{
+  "patient": [
+    {
+      "patient_id": 1,
+      "personal_info": {
+        "first_name":"Jems K", 
+        "last_name":"Davis",
+        "address":"Aurburn,WA"
+      },
+      "health_info": {
+        "disease":"Hepatitis ",
+        "stage": "Initial1"
+      }     
+
+    },{
+      "patient_id": 2,
+      "personal_info": {
+        "first_name":"Katy B", 
+        "last_name":"Elvis",
+        "address":"FairField,IA"
+      },
+      "health_info": {
+        "disease":"Pneumonia",
+        "stage": "Stage1"
+      }
+    },{
+      "patient_id": 3,
+      "personal_info": {
+        "first_name":"Daniel K", 
+        "last_name" :"Brian",
+        "address":"Plano,Tx"
+      },
+      "health_info": {
+        "disease":"Protest Cancer",
+        "stage": "Stage4"
+      }
+
+    },
+    {
+      "patient_id": 4,
+      "personal_info": {
+        "first_name":"Alex K", 
+        "last_name" :"Daniel",
+        "address":"Arlington,Tx"
+      },
+      "health_info": {
+        "disease":"Brain Cancer",
+        "stage": "Stage 1"
+      }
+
+    },
+    {
+      "patient_id": 5,
+      "personal_info": {
+        "first_name":"Bob K", 
+        "last_name" :"John",
+        "address":"Plano,Tx"
+      },
+      "health_info": {
+        "disease":"X Cancer",
+        "stage": "Stage 2"
+      }
+
+    }
+  ]
+ 
+}
